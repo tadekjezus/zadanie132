@@ -3,6 +3,7 @@
 
 int main()
 {
-    printf("Mateusz Sieczkowski\n");
+    printf("Mateusz Sieczkowski\nMikolaj Holas");
+
     return 0;
 }
